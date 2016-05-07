@@ -1,0 +1,17 @@
+{
+  "name": "a1-redux-storybook-simpledemo",
+  "version": "1.0.0",
+  "description": "a1-redux storybook simple demo",
+  "main": "index.js",
+  "scripts": {
+    "storybook": "start-storybook -p 9001 -c _storybook"
+  },
+  "author": "PhucPNT <mail@phucpnt.com>",
+  "license": "ISC",
+  "dependencies": {
+    "a1-redux": "0.0.9",
+    "a1-redux-storybook": "^1.22.3",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
+  }
+}
